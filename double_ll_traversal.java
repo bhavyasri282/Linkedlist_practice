@@ -8,7 +8,7 @@ class   DNode{
         this.prev=null;
     }
 }
-public class circular_ll_traversal{
+public class double_ll_traversal{
     static void forward(DNode head){
         DNode temp=head;
         //move forward
